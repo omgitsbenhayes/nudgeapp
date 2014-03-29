@@ -18,6 +18,7 @@ User can propose dates to users discovered via browsing
 
 Enhancements:
 Can incorporate ads as a source of revenue
+Can work with local to give discounts at proposed date locations
 
 Challenges:
 Comparing two locations
@@ -70,6 +71,7 @@ Generating unique coupon codes
 Comparing user location to a static location
 Tracking success - probably wouldn't be an interface to indicate that a coupon was used
 Differentiating Nudges from spam
+Making user preferences a simple entry process - make it more interactive than just checking/unchecking boxes
 
 
 Common Challenges:
