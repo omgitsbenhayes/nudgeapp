@@ -1,0 +1,78 @@
+Nudge
+Dating
+Flow:
+User creates account
+User signs into account
+User enters personal demographic information
+User enters interests
+User uploads several pictures
+User saves information
+Ongoing: Nudge runs in background
+When the locations of two Nudge users are within a specified distance of each other, the Nudge algorithm is called to compare the two profiles. If a match is detected, both users will be "nudged" indicating that a match is nearby.
+When the user opens the Nudge app, details of the match will be displayed and potential date recommendations will be displayed.
+User can view the other user's profile and message that user if interested.
+Nudge can create an event for which both parties can choose to accept, deny (politely), or propose a new time/location.
+If the event take place, activity can be shared to Facebook
+User can also browse nearby users that were determined to be no-matches
+User can propose dates to users discovered via browsing
+
+Enhancements:
+Can incorporate ads as a source of revenue
+
+Challenges:
+Comparing two locations
+Establishing an effective algorithm
+
+
+Deals
+Business Flow:
+Business creates an account
+Business identifies locations
+Business creates targeted “Nudges”
+Target based on general interests
+Target based on specific items (food dishes/store products)
+Target based on user Nudge history
+Indicates the frequency of “Nudges” (1 in 20 people that meet the Nudge match criteria)
+Business or Nudge app creates unique coupons to be pushed to user matches
+Coupon can be added to Passbook on iPhone
+
+Enhancements:
+Businesses can view Nudge statistics
+
+User Flow:
+User creates account
+User signs into account
+User enters interests
+Stores
+Restaurants
+Products
+Activities
+User creates wants/needs/likes list.  Specific items on these lists can be targeted by business (people who need a new TV will be more likely to receive a Nudge with a TV coupon).
+User selects specific businesses to be Nudged by
+User saves information
+Ongoing: Nudge runs in background
+When a user passes by a business location, system will check to see if a Nudge exists for the business.  If so, the users interests and lists will be checked to see if the Nudge criteria and frequency are met. If met, the user will “nudged” with a coupon.
+The coupon will have a short time period for which it can be redeemed.
+The coupon can be added to Passbook on the iPhone.
+User redeems the coupon at the business location for which they were Nudged.
+User can post the redemption on Facebook
+Nudge will track the statistics of users
+Number of times nudged
+Number of redeemed nudges
+Number of Nudge users that pass a business location on a given day
+
+Enhancements:
+User can browse deals (standard deals for nearby businesses; not as significant as Nudged deals)
+
+Challenges:
+Coordinating with different businesses
+Generating unique coupon codes
+Comparing user location to a static location
+Tracking success - probably wouldn't be an interface to indicate that a coupon was used
+Differentiating Nudges from spam
+
+
+Common Challenges:
+Geofencing - battery life/efficiency
+Developing user base
+Matching algorithms
