@@ -1,0 +1,21 @@
+User Functionalities:
+Create account
+Change password
+Delete account
+Sign in
+Sign out
+Post photographs
+Remove photographs
+CRUD personal information
+CRUD match preferences
+Update settings
+Browse nearby users
+CRUD events
+Accept/Decline/Propose new time/location events
+View matches (match criteria)
+
+System Requirements:
+Track user locations
+Perform match algorithm
+Create events
+Send push notifications
