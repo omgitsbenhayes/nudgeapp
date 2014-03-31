@@ -10,9 +10,13 @@ CRUD personal information
 CRUD match preferences
 Update settings
 Browse nearby users
+View user profiles
 CRUD events
 Accept/Decline/Propose new time/location events
 View matches (match criteria)
+Send messages
+Read messages
+
 
 System Requirements:
 Track user locations
